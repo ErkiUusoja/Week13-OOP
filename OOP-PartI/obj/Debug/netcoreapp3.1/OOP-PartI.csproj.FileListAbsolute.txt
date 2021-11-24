@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TITpe21\OOP-PartI\OOP-PartI\bin\Debug\netcoreapp3.1\OOP-PartI.exe
+C:\Users\opilane\source\repos\TITpe21\OOP-PartI\OOP-PartI\bin\Debug\netcoreapp3.1\OOP-PartI.deps.json
+C:\Users\opilane\source\repos\TITpe21\OOP-PartI\OOP-PartI\bin\Debug\netcoreapp3.1\OOP-PartI.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\OOP-PartI\OOP-PartI\bin\Debug\netcoreapp3.1\OOP-PartI.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\OOP-PartI\OOP-PartI\bin\Debug\netcoreapp3.1\OOP-PartI.dll
+C:\Users\opilane\source\repos\TITpe21\OOP-PartI\OOP-PartI\bin\Debug\netcoreapp3.1\OOP-PartI.pdb
+C:\Users\opilane\source\repos\TITpe21\OOP-PartI\OOP-PartI\obj\Debug\netcoreapp3.1\OOP-PartI.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TITpe21\OOP-PartI\OOP-PartI\obj\Debug\netcoreapp3.1\OOP-PartI.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\OOP-PartI\OOP-PartI\obj\Debug\netcoreapp3.1\OOP-PartI.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\OOP-PartI\OOP-PartI\obj\Debug\netcoreapp3.1\OOP-PartI.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\OOP-PartI\OOP-PartI\obj\Debug\netcoreapp3.1\OOP-PartI.dll
+C:\Users\opilane\source\repos\TITpe21\OOP-PartI\OOP-PartI\obj\Debug\netcoreapp3.1\OOP-PartI.pdb
+C:\Users\opilane\source\repos\TITpe21\OOP-PartI\OOP-PartI\obj\Debug\netcoreapp3.1\OOP-PartI.genruntimeconfig.cache
